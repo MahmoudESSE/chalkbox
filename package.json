@@ -1,0 +1,15 @@
+{
+  "name": "chalkbox",
+  "module": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "bun run ./index.js"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
+
