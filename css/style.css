@@ -7,6 +7,13 @@ body {
   /* end centering a div*/
 }
 
+.header {
+  font-size: 32px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .grid {
   display: flex;
   box-sizing: border-box;
